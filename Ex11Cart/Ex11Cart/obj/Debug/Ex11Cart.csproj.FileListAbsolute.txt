@@ -1,0 +1,86 @@
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\csc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\vbc.exe
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll.config
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\Ex11Cart.pdb
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.csprojResolveAssemblyReference.cache
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.dll
+C:\Users\Maryd.TECHKNOWSOLVE\OneDrive\Documents\ASPNET4.6.Rewrite\exercise_starts\ch11\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.pdb
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\csc.exe
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\vbc.exe
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll.config
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\Ex11Cart.pdb
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.dll
+C:\aspnet46_cs\exercises\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.pdb
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\csc.exe
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\System.Collections.Immutable.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\vbc.exe
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe.config
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll.config
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Ex11Cart.pdb
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.csprojResolveAssemblyReference.cache
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.dll
+D:\School\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.pdb
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\csc.exe
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\System.Collections.Immutable.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\vbc.exe
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\roslyn\VBCSCompiler.exe.config
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll.config
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Ex11Cart.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Ex11Cart.pdb
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.csprojAssemblyReference.cache
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.csproj.CoreCompileInputs.cache
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.csproj.CopyComplete
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.dll
+D:\School\Fall 2019\Web Prog\Files\Ex11Cart\Ex11Cart\obj\Debug\Ex11Cart.pdb
